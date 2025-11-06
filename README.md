@@ -36,7 +36,7 @@ How to Use the Dashboard:
 4. Filter Data: Use the slicers (located on the right or left of the pages) to filter the data by relevant criteria (e.g., select "2024" to see only 2024 data).
 5. Refresh Data: After entering new data into the Data sheet, go to the Data tab and click Refresh All to update all pivot tables and charts.
 
-Dashboard Components & KPIs
+Dashboard Components & KPIs:
 The dashboard components track crucial metrics, including total purchase costs and order volumes through the "Overview" section, cost and payment status by vendor in "Vendor Analysis," freight costs and transit times in "Shipping Analysis," and order quantities by category in "Category Analysis," utilizing KPI cards, line charts, bar charts, and pivot tables for visualization.
 
 Data Source:
