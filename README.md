@@ -1,0 +1,2 @@
+# Advanced-Excel-PURCHASE-AND-SHIPPING-ANALYSIS-2023-2024-DASHBOARD
+An interactive Excel dashboard for comprehensive purchase and shipping analysis (2023–2024). It uses pivot tables and slicers for dynamic filtering of key metrics like total purchase value, quantity ordered by category, shipping costs, and carrier performance, providing actionable insights for optimizing supply chain operations. 
